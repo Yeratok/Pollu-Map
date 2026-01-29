@@ -84,12 +84,11 @@ Pollu-Map/
 
 ### 🗺️ Maps
 - [`demo_pollution_map.png`](maps/demo_pollution_map.png)
-- `dashboard_mockup.png` *(conceptual UI)*
+- [`dashboard_mockup.png`](dashboard_mockup.png)
 
 ### 📄 Docs
 - [`docs/README.md`](docs/README.md)
 - [`platform_overview.md`](docs/platform_overview.md)
-- `system_architecture.png`
 
 
 ---
