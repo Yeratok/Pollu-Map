@@ -67,10 +67,30 @@ As sensor coverage increases, analytical accuracy improves while **cost per depl
 
 Pollu-Map/
 ├── README.md
-├── data/ # Simulated sensor datasets
-├── ai/ # Pollution analysis & AI logic
-├── maps/ # Map visualizations
-└── docs/ # System architecture & documentation
+├── data/
+├── ai/
+├── maps/
+└── docs/
+
+### 📊 Data
+- [`data/README.md`](data/README.md)
+- [`sample_sensor_data.csv`](data/sample_sensor_data.csv)
+- [`multi_station_data.csv`](data/multi_station_data.csv)
+
+### 🤖 AI
+- [`ai/README.md`](ai/README.md)
+- [`pollution_analysis.py`](ai/pollution_analysis.py)
+- [`model_description.md`](ai/model_description.md)
+
+### 🗺️ Maps
+- [`demo_pollution_map.png`](maps/demo_pollution_map.png)
+- `dashboard_mockup.png` *(conceptual UI)*
+
+### 📄 Docs
+- [`docs/README.md`](docs/README.md)
+- [`platform_overview.md`](docs/platform_overview.md)
+- `system_architecture.png`
+
 
 ---
 
